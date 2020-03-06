@@ -50,3 +50,7 @@ The following deliverables should be pushed to your Github repo for this chapter
     2|Exceeds expectations, you wonderful creature, you!
 
 This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+
+## Dataset chosen
+
+I decided to visualize and get insights from a dataset which shows restaurants that sell tacos and burritos.
