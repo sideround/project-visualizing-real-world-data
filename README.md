@@ -16,7 +16,15 @@ The technical requirements for this project are as follows:
 
  - Select a dataset from a public source.
  - Create a Jupyter noteboosk to analyze the data
- - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose). Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
+ - Using your data, create a minimum of 
+ 
+ one scatter plot, 
+ one histogram,
+ one box plot 
+ one bar graph (you can add more than one visualization of each type of you choose). 
+ 
+ 
+ Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
  - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
 
 ## Necessary Deliverables
@@ -54,3 +62,7 @@ This will be useful as an overall gauge of whether you met the project goals, bu
 ## Dataset chosen
 
 I decided to visualize and get insights from a dataset which shows restaurants that sell tacos and burritos.
+
+## Conclusions
+
+We can conclude our dataset was not the best one to visualize data as there were many non-useful columns. It was hard for me to try to get as many insights as possible. We can finally conclude most of the restaurants are located in the US at a very cheap price.
